@@ -1,10 +1,13 @@
 # -Credit-Card-Financial-Weekly-Report-
 This dynamic report empowers stakeholders to delve into key metrics and trends, ensuring data-driven decisions.
 Key Features:
-High-Level Metrics:
+
 Revenue: 55M
+
 Total Interest: 7.8M
+
 Amount: 45M
+
 Transaction Count: 656K
 
 Detailed Breakdown:
